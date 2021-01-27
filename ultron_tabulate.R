@@ -53,4 +53,4 @@ tabulated <- full_rules %>%
 write_csv(tabulated, "UltronTabulated.csv")
 full_rules %>% 
   na.omit() %>% 
-  write_csv("UltronRules.csv")
+  write_csv("Ultron/UltronRules.csv")
