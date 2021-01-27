@@ -1,0 +1,401 @@
+Film,Rule,Class
+Age of Ultron,"Anyone says ""Ultron""",S
+Age of Ultron,"Anyone says ""Avengers""",S
+Age of Ultron,Anyone mentions “bad language”,S
+Age of Ultron,Hulk and Black Widow sexual tension,M
+Age of Ultron,Infinity stones are seen or referenced,M
+Age of Ultron,Vision awakens,L
+Age of Ultron,Quicksilver dies,L
+Age of Ultron,Explosions,S
+Age of Ultron,Stan Lee cameo,L
+Age of Ultron,Sassy Nick Fury,S
+Age of Ultron,Mentions a fictional location,S
+Age of Ultron,Blatently CG villain first appears,M
+Age of Ultron,Hydra mentioned,S
+Age of Ultron,Improbable Captain America shield physics,S
+Age of Ultron,Villain defeated,L
+Age of Ultron,Any character drinks anything,S
+Age of Ultron,Howard Stark appears or is mentioned,S
+Age of Ultron,Laser/energy beam,S
+Age of Ultron,Epic shot of the hero(es),L
+Age of Ultron,Unexpectedly comical moment,M
+Age of Ultron,Each pick a hero and drink every time they use their powers,M
+Age of Ultron,Thor throws or spins his hammer,S
+Ant-Man,Bug or size pun,M
+Ant-Man,Scott says he no longer steals,M
+Ant-Man,A lock is entered or broken (This includes jumping through the hole itself),M
+Ant-Man,"The words ""Ant-Man"" and ""Yellow Jacket"" are said",S
+Ant-Man,Tea or Waffles are shown,S
+Ant-Man,See a new type of ant,M
+Ant-Man,Hero in super-suit for first time,M
+Ant-Man,Explosions,S
+Ant-Man,Stan Lee cameo,L
+Ant-Man,Mentions a fictional location,S
+Ant-Man,Villain defeated,L
+Ant-Man,Any character drinks anything,S
+Ant-Man,Howard Stark appears or is mentioned,S
+Ant-Man,"""They said the name of the thing!""",L
+Ant-Man,Laser/energy beam,S
+Ant-Man,Epic shot of the hero(es),L
+Ant-Man,Unexpectedly comical moment,M
+Ant-Man,Ant-man changes size,S
+Ant-Man,Avenger not named in title appears,M
+Ant-Man and the Wasp,"The words ""Quantum"", ""Lab"" or ""House"" are said",S
+Ant-Man and the Wasp,Germany is referenced,M
+Ant-Man and the Wasp,The police show up or are pursuing them,M
+Ant-Man and the Wasp,"Scott is ""possessed""",M
+Ant-Man and the Wasp,Scott becomes giant,L
+Ant-Man and the Wasp,Hero in super-suit for first time,M
+Ant-Man and the Wasp,Explosions,S
+Ant-Man and the Wasp,Stan Lee cameo,L
+Ant-Man and the Wasp,"""Real"" song plays",M
+Ant-Man and the Wasp,Mentions a fictional location,S
+Ant-Man and the Wasp,Blatently CG villain first appears,M
+Ant-Man and the Wasp,Villain defeated,L
+Ant-Man and the Wasp,Any character drinks anything,S
+Ant-Man and the Wasp,Laser/energy beam,S
+Ant-Man and the Wasp,Epic shot of the hero(es),L
+Ant-Man and the Wasp,Unexpectedly comical moment,M
+Ant-Man and the Wasp,Ant-man changes size,S
+Black Panther,"Someone says ""Vibranium"" or ""Wakanda""",S
+Black Panther,A previously unmentioned use for vibranium is revealed.,M
+Black Panther,A suit does an energy blast,S
+Black Panther,A spear is extended,S
+Black Panther,There is a flashback or someone travels to the ancestor realm,M
+Black Panther,We find out who Killmonger really is,L
+Black Panther,See the heart-shaped herb,M
+Black Panther,"""Wakanda Forever!""",S
+Black Panther,Hero in super-suit for first time,M
+Black Panther,Explosions,S
+Black Panther,Stan Lee cameo,L
+Black Panther,Mentions a fictional location,S
+Black Panther,Villain defeated,L
+Black Panther,Any character drinks anything,S
+Black Panther,"""They said the name of the thing!""",L
+Black Panther,Laser/energy beam,S
+Black Panther,Epic shot of the hero(es),L
+Black Panther,Spaceship/futuristic vehicle,S
+Black Panther,Unexpectedly comical moment,M
+Black Panther,Slow motion,M
+Captain America: The First Avenger,Any reference to Hitler or the Nazis,M
+Captain America: The First Avenger,Steve gets shredded,L
+Captain America: The First Avenger,Someone mentions Brooklyn,M
+Captain America: The First Avenger,Captain America throws his Shield,S
+Captain America: The First Avenger,Red Skull reveals his red skull,L
+Captain America: The First Avenger,Hero in super-suit for first time,M
+Captain America: The First Avenger,Explosions,S
+Captain America: The First Avenger,Stan Lee cameo,L
+Captain America: The First Avenger,Blatently CG villain first appears,M
+Captain America: The First Avenger,Hydra mentioned,S
+Captain America: The First Avenger,Improbable Captain America shield physics,S
+Captain America: The First Avenger,Villain defeated,L
+Captain America: The First Avenger,Any character drinks anything,S
+Captain America: The First Avenger,Howard Stark appears or is mentioned,S
+Captain America: The First Avenger,"""They said the name of the thing!""",L
+Captain America: The First Avenger,Laser/energy beam,S
+Captain America: The First Avenger,Epic shot of the hero(es),L
+Captain America: The First Avenger,Unexpectedly comical moment,M
+Captain America: The First Avenger,Slow motion,M
+Captain America: The Winter Soldier,Anyone talks about trust,S
+Captain America: The Winter Soldier,Glass shatters,S
+Captain America: The Winter Soldier,Bucky catches Cap's shield,L
+Captain America: The Winter Soldier,Someone previously thought dead is shown to be alive,M
+Captain America: The Winter Soldier,"Anyone says ""freedom"", ""order"" or ""chaos""",S
+Captain America: The Winter Soldier,That cool knife switch in the fight between bucky and cap,M
+Captain America: The Winter Soldier,Natasha tries to have a normal conversation with Steve,M
+Captain America: The Winter Soldier,Explosions,S
+Captain America: The Winter Soldier,Stan Lee cameo,L
+Captain America: The Winter Soldier,Sassy Nick Fury,S
+Captain America: The Winter Soldier,Hydra mentioned,S
+Captain America: The Winter Soldier,Improbable Captain America shield physics,S
+Captain America: The Winter Soldier,Villain defeated,L
+Captain America: The Winter Soldier,Any character drinks anything,S
+Captain America: The Winter Soldier,Howard Stark appears or is mentioned,S
+Captain America: The Winter Soldier,"""They said the name of the thing!""",L
+Captain America: The Winter Soldier,Laser/energy beam,S
+Captain America: The Winter Soldier,Epic shot of the hero(es),L
+Captain America: The Winter Soldier,Unexpectedly comical moment,M
+Captain America: The Winter Soldier,"""Oh my god! They were evil!?""",L
+Captain Marvel,"The words ""Lawson"", ""Pegasus"" or ""Skroll"" are said",S
+Captain Marvel,A misogynistic comment is made,M
+Captain Marvel,A 90's reference is made,S
+Captain Marvel,A Skroll changes its form,M
+Captain Marvel,We find out how Fury lost his eye,L
+Captain Marvel,Hero in super-suit for first time,M
+Captain Marvel,Explosions,S
+Captain Marvel,Stan Lee cameo,L
+Captain Marvel,Sassy Nick Fury,S
+Captain Marvel,"""Real"" song plays",M
+Captain Marvel,Mentions a fictional location,S
+Captain Marvel,Villain defeated,L
+Captain Marvel,Any character drinks anything,S
+Captain Marvel,Laser/energy beam,S
+Captain Marvel,Epic shot of the hero(es),L
+Captain Marvel,Spaceship/futuristic vehicle,S
+Captain Marvel,Unexpectedly comical moment,M
+Captain Marvel,"""Oh my god! They were evil!?""",L
+Civil War,Spider-Man introduced,L
+Civil War,"""Avengers"" or ""Winter Soldier"" said",S
+Civil War,Location title shown,M
+Civil War,Someone goes through a wall of a building,M
+Civil War,Someone appears with a black eye,M
+Civil War,Who killed Stark's parents?,L
+Civil War,Explosions,S
+Civil War,Stan Lee cameo,L
+Civil War,Mentions a fictional location,S
+Civil War,Hydra mentioned,S
+Civil War,Improbable Captain America shield physics,S
+Civil War,Villain defeated,L
+Civil War,Any character drinks anything,S
+Civil War,Howard Stark appears or is mentioned,S
+Civil War,Laser/energy beam,S
+Civil War,Epic shot of the hero(es),L
+Civil War,Spaceship/futuristic vehicle,S
+Civil War,Unexpectedly comical moment,M
+Civil War,Slow motion,M
+Civil War,Ant-man changes size,S
+Civil War,"""Oh my god! They were evil!?""",L
+Civil War,Each pick a hero and drink every time they use their powers,M
+Civil War,Thor throws or spins his hammer,S
+Doctor Strange,"The words ""Dark Dimension"", ""Ancient One"" or ""Astral Body"" are said",S
+Doctor Strange,Strange corrects someone that he is indeed a doctor,M
+Doctor Strange,The cape saves Strange,M
+Doctor Strange,Acid trip visuals,M
+Doctor Strange,The mirror dimension appears,S
+Doctor Strange,Orange sparky chains!,S
+Doctor Strange,Strange scales Everest?,L
+Doctor Strange,Hero in super-suit for first time,M
+Doctor Strange,Explosions,S
+Doctor Strange,Stan Lee cameo,L
+Doctor Strange,Mentions a fictional location,S
+Doctor Strange,Blatently CG villain first appears,M
+Doctor Strange,Portal/wormhole opens,S
+Doctor Strange,Hydra mentioned,S
+Doctor Strange,Villain defeated,L
+Doctor Strange,Any character drinks anything,S
+Doctor Strange,"""They said the name of the thing!""",L
+Doctor Strange,Laser/energy beam,S
+Doctor Strange,Epic shot of the hero(es),L
+Doctor Strange,Unexpectedly comical moment,M
+Endgame,"Heavy-handed ""Girl Power"" scene",L
+Endgame,Steve lifts Mjolnir,L
+Endgame,"The words ""Avengers"", ""Thanos"", ""Stones"" or ""Time"" are said",S
+Endgame,There is a location or year title onscreen,M
+Endgame,"An Avenger runs into their prior self, spouse or parent while traveling time",M
+Endgame,A stone is obtained  by the Avengers,M
+Endgame,An Avenger dies,M
+Endgame,America's Ass,M
+Endgame,Explosions,S
+Endgame,Stan Lee cameo,L
+Endgame,Sassy Nick Fury,S
+Endgame,Mentions a fictional location,S
+Endgame,Blatently CG villain first appears,M
+Endgame,Portal/wormhole opens,S
+Endgame,Hydra mentioned,S
+Endgame,Improbable Captain America shield physics,S
+Endgame,Villain defeated,L
+Endgame,Any character drinks anything,S
+Endgame,Howard Stark appears or is mentioned,S
+Endgame,Laser/energy beam,S
+Endgame,Epic shot of the hero(es),L
+Endgame,Spaceship/futuristic vehicle,S
+Endgame,Unexpectedly comical moment,M
+Endgame,Ant-man changes size,S
+Endgame,Each pick a hero and drink every time they use their powers,M
+Endgame,Thor throws or spins his hammer,S
+Guardians of the Galaxy,Drax takes a comment or action literally,M
+Guardians of the Galaxy,Yondu whistles his arrow around,M
+Guardians of the Galaxy,Someone doesn't know who Star Lord is,M
+Guardians of the Galaxy,"""I am Groot""",S
+Guardians of the Galaxy,"""They got my dick message!""",L
+Guardians of the Galaxy,"""Thanos"" or ""Orb"" is said",S
+Guardians of the Galaxy,Explosions,S
+Guardians of the Galaxy,Stan Lee cameo,L
+Guardians of the Galaxy,"""Real"" song plays",M
+Guardians of the Galaxy,Mentions a fictional location,S
+Guardians of the Galaxy,Villain defeated,L
+Guardians of the Galaxy,Any character drinks anything,S
+Guardians of the Galaxy,"""They said the name of the thing!""",L
+Guardians of the Galaxy,Laser/energy beam,S
+Guardians of the Galaxy,Epic shot of the hero(es),L
+Guardians of the Galaxy,Spaceship/futuristic vehicle,S
+Guardians of the Galaxy,Unexpectedly comical moment,M
+Guardians of the Galaxy,Slow motion,M
+Guardians of the Galaxy 2,"The words ""Star Lord"", ""Battery"" or ""Dad"" are said",S
+Guardians of the Galaxy 2,Drax laughs,M
+Guardians of the Galaxy 2,New planet/location shown,M
+Guardians of the Galaxy 2,"""I'm Mary Poppins y'all!""",L
+Guardians of the Galaxy 2,Explosions,S
+Guardians of the Galaxy 2,Stan Lee cameo,L
+Guardians of the Galaxy 2,"""Real"" song plays",M
+Guardians of the Galaxy 2,Mentions a fictional location,S
+Guardians of the Galaxy 2,Blatently CG villain first appears,M
+Guardians of the Galaxy 2,Villain defeated,L
+Guardians of the Galaxy 2,Any character drinks anything,S
+Guardians of the Galaxy 2,"""They said the name of the thing!""",L
+Guardians of the Galaxy 2,Laser/energy beam,S
+Guardians of the Galaxy 2,Epic shot of the hero(es),L
+Guardians of the Galaxy 2,Spaceship/futuristic vehicle,S
+Guardians of the Galaxy 2,Unexpectedly comical moment,M
+Guardians of the Galaxy 2,Slow motion,M
+Guardians of the Galaxy 2,"""Oh my god! They were evil!?""",L
+Infinity War,Someone forced to chose between protecting/obtaining an Infinity Stone and someone else's life.,M
+Infinity War,Thanos uses an infinity stone,S
+Infinity War,The Snap,L
+Infinity War,"The words ""Thanos"", ""Stone"" or ""Avengers"" are said",S
+Infinity War,The movie switches between Earth and Space,S
+Infinity War,A location title is shown,M
+Infinity War,Rocket is referred to as a rabbit,M
+Infinity War,Thanos obtains an Infinity Stone,M
+Infinity War,Explosions,S
+Infinity War,Stan Lee cameo,L
+Infinity War,Sassy Nick Fury,S
+Infinity War,Mentions a fictional location,S
+Infinity War,Blatently CG villain first appears,M
+Infinity War,Portal/wormhole opens,S
+Infinity War,Improbable Captain America shield physics,S
+Infinity War,Villain defeated,L
+Infinity War,Any character drinks anything,S
+Infinity War,Laser/energy beam,S
+Infinity War,Epic shot of the hero(es),L
+Infinity War,Spaceship/futuristic vehicle,S
+Infinity War,Unexpectedly comical moment,M
+Infinity War,Slow motion,M
+Infinity War,Each pick a hero and drink every time they use their powers,M
+Infinity War,Thor throws or spins his hammer,S
+Iron Man,Suit malfunctions,M
+Iron Man,Hologram or heads-up display,S
+Iron Man,"Someone says ""Shield""",S
+Iron Man,Flies for first time,L
+Iron Man,"""Stark"" said or seen",S
+Iron Man,Hero in super-suit for first time,M
+Iron Man,Explosions,S
+Iron Man,Stan Lee cameo,L
+Iron Man,"""Real"" song plays",M
+Iron Man,That awful Iron Man face-cam,S
+Iron Man,Villain defeated,L
+Iron Man,Any character drinks anything,S
+Iron Man,Howard Stark appears or is mentioned,S
+Iron Man,"""They said the name of the thing!""",L
+Iron Man,Laser/energy beam,S
+Iron Man,Epic shot of the hero(es),L
+Iron Man,Unexpectedly comical moment,M
+Iron Man,"""Oh my god! They were evil!?""",L
+Iron Man 2,"Someone says ""Bird""",S
+Iron Man 2,Tony's [poor] health is referenced,S
+Iron Man 2,Tony discovers a new element,M
+Iron Man 2,“My Greatest Creation… Is You”,L
+Iron Man 2,"""Stark"" said or seen",S
+Iron Man 2,Hero in super-suit for first time,M
+Iron Man 2,Explosions,S
+Iron Man 2,Stan Lee cameo,L
+Iron Man 2,Sassy Nick Fury,S
+Iron Man 2,"""Real"" song plays",M
+Iron Man 2,That awful Iron Man face-cam,S
+Iron Man 2,Villain defeated,L
+Iron Man 2,Any character drinks anything,S
+Iron Man 2,Howard Stark appears or is mentioned,S
+Iron Man 2,"""They said the name of the thing!""",L
+Iron Man 2,Laser/energy beam,S
+Iron Man 2,Epic shot of the hero(es),L
+Iron Man 2,Unexpectedly comical moment,M
+Iron Man 2,Avenger not named in title appears,M
+Iron Man 3,Someone banters with their suit's artificial intelligence,M
+Iron Man 3,"Anyone says ""Mandarin""",S
+Iron Man 3,There’s a reference to New York / The Avengers,M
+Iron Man 3,One of the Iron Man suits is destroyed,S
+Iron Man 3,Killian breaths fire/lava,M
+Iron Man 3,"The ""Mandarin"" is revealed",L
+Iron Man 3,"""Stark"" said or seen",S
+Iron Man 3,Hero in super-suit for first time,M
+Iron Man 3,Explosions,S
+Iron Man 3,Stan Lee cameo,L
+Iron Man 3,That awful Iron Man face-cam,S
+Iron Man 3,Villain defeated,L
+Iron Man 3,Any character drinks anything,S
+Iron Man 3,"""They said the name of the thing!""",L
+Iron Man 3,Laser/energy beam,S
+Iron Man 3,Epic shot of the hero(es),L
+Iron Man 3,Unexpectedly comical moment,M
+Iron Man 3,"""Oh my god! They were evil!?""",L
+The Avengers,Someone makes a pop culture reference,M
+The Avengers,"""Puny God""",L
+The Avengers,"Anyone says ""Loki"" or ""Tesseract""",S
+The Avengers,Someone gets blue'd,M
+The Avengers,Tony calls someone a nickname instead of their real/hero name,M
+The Avengers,Coulson's death,L
+The Avengers,Explosions,S
+The Avengers,Stan Lee cameo,L
+The Avengers,Sassy Nick Fury,S
+The Avengers,Mentions a fictional location,S
+The Avengers,Portal/wormhole opens,S
+The Avengers,Hydra mentioned,S
+The Avengers,Improbable Captain America shield physics,S
+The Avengers,Villain defeated,L
+The Avengers,Any character drinks anything,S
+The Avengers,Howard Stark appears or is mentioned,S
+The Avengers,"""They said the name of the thing!""",L
+The Avengers,Laser/energy beam,S
+The Avengers,Epic shot of the hero(es),L
+The Avengers,Unexpectedly comical moment,M
+The Avengers,Slow motion,M
+The Avengers,Each pick a hero and drink every time they use their powers,M
+The Avengers,Thor throws or spins his hammer,S
+Thor,"Anyone says ""Thor"" or ""Asgard""",S
+Thor,Lightning,S
+Thor,"“This drink, I like it! Another!” (Ensure you do 2)",M
+Thor,Camera is at a jaunty angle for no reason,M
+Thor,“Is it madness….is it?!… IS IT?!”,L
+Thor,Explosions,S
+Thor,Stan Lee cameo,L
+Thor,Mentions a fictional location,S
+Thor,Blatently CG villain first appears,M
+Thor,Portal/wormhole opens,S
+Thor,Villain defeated,L
+Thor,Any character drinks anything,S
+Thor,"""They said the name of the thing!""",L
+Thor,Laser/energy beam,S
+Thor,Epic shot of the hero(es),L
+Thor,Unexpectedly comical moment,M
+Thor,Thor throws or spins his hammer,S
+Thor Ragnarok,"The words ""Ragnarok"" ""Asgard"" or ""Grand Master"" are said",S
+Thor Ragnarok,Someone is electrocuted,S
+Thor Ragnarok,Another avenger is referenced,S
+Thor Ragnarok,Korg is comic relief,M
+Thor Ragnarok,Mjolnir is destroyed,M
+Thor Ragnarok,Thor summons lightning from within,L
+Thor Ragnarok,Hulk transforms,M
+Thor Ragnarok,Jeff Goldblum goes full Jeff Goldblum,M
+Thor Ragnarok,Explosions,S
+Thor Ragnarok,Stan Lee cameo,L
+Thor Ragnarok,"""Real"" song plays",M
+Thor Ragnarok,Mentions a fictional location,S
+Thor Ragnarok,Blatently CG villain first appears,M
+Thor Ragnarok,Villain defeated,L
+Thor Ragnarok,Any character drinks anything,S
+Thor Ragnarok,"""They said the name of the thing!""",L
+Thor Ragnarok,Laser/energy beam,S
+Thor Ragnarok,Epic shot of the hero(es),L
+Thor Ragnarok,Spaceship/futuristic vehicle,S
+Thor Ragnarok,Unexpectedly comical moment,M
+Thor Ragnarok,Slow motion,M
+Thor Ragnarok,Avenger not named in title appears,M
+Thor Ragnarok,Thor throws or spins his hammer,S
+Thor: The Dark World,"Anyone says ""Thor"", ""Asgard"" or ""Aether""",S
+Thor: The Dark World,Thor flips a table.,M
+Thor: The Dark World,“You must be truly desperate to come to me for help.”,M
+Thor: The Dark World,Frigga’s Funeral,M
+Thor: The Dark World,"""Ta-dah!""",L
+Thor: The Dark World,Explosions,S
+Thor: The Dark World,Stan Lee cameo,L
+Thor: The Dark World,Mentions a fictional location,S
+Thor: The Dark World,Portal/wormhole opens,S
+Thor: The Dark World,Villain defeated,L
+Thor: The Dark World,Any character drinks anything,S
+Thor: The Dark World,"""They said the name of the thing!""",L
+Thor: The Dark World,Laser/energy beam,S
+Thor: The Dark World,Epic shot of the hero(es),L
+Thor: The Dark World,Spaceship/futuristic vehicle,S
+Thor: The Dark World,Unexpectedly comical moment,M
+Thor: The Dark World,Avenger not named in title appears,M
+Thor: The Dark World,Thor throws or spins his hammer,S
