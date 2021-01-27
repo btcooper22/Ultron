@@ -31,7 +31,8 @@ full_rules <- foreach(i = 1:length(films_unique),
     
     # Extract applicable rules
     valid_rules <- pool %>% 
-      filter(Requires %in% valid_vars$name) %>% 
+      filter(Requires %in% valid_vars$name |
+               Requires == "EVERY") %>% 
       select(c(1,3))
     
     # Prepare output
@@ -48,7 +49,7 @@ tabulated <- full_rules %>%
   summarise(n = n()) %>% 
   pivot_wider(names_from = "Class",
               values_from = "n") %>% 
-  select(1,3,2,4)
+  select(Film, S, M, L)
 
 # Write
 write_csv(tabulated, "UltronTabulated.csv")
