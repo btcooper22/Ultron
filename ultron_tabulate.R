@@ -1,10 +1,13 @@
 # Packages
-require(tidyverse)
+require(tidyr)
+require(dplyr)
+require(magrittr)
 require(readxl)
 require(foreach)
+require(readr)
 
 # Load
-file <- "P:/LIDA/OneDrive - University of Leeds/Ultron/Guide.xlsx"
+file <- "Guide.xlsx"
 films <- read_xlsx(file, 1)
 pool <- read_xlsx(file, 2)
 vars <- read_xlsx(file, 3)
@@ -44,10 +47,11 @@ tabulated <- full_rules %>%
   group_by(Film, Class) %>% 
   summarise(n = n()) %>% 
   pivot_wider(names_from = "Class",
-              values_from = "n")
+              values_from = "n") %>% 
+  select(1,3,2,4)
 
 # Write
-write_csv(tabulate, "UltronTabulated.csv")
+write_csv(tabulated, "UltronTabulated.csv")
 full_rules %>% 
   na.omit() %>% 
   write_csv("UltronRules.csv")

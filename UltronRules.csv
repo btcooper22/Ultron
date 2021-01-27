@@ -1,0 +1,136 @@
+Film,Rule,Class
+Iron Man,"""Stark"" said or seen",S
+Iron Man,Suit malfunctions,M
+Iron Man,Hologram or heads-up display,S
+Iron Man,"Someone says ""Shield""",S
+Iron Man,Flies for first time,L
+Iron Man,Iron man flies,S
+Iron Man,Hero in super-suit for first time,M
+Iron Man,"""Real"" song plays",M
+Iron Man,That awful Iron Man face-cam,S
+Iron Man,Howard Stark appears or is mentioned,S
+Iron Man,"""They said the name of the thing!""",L
+Iron Man 2,Iron man flies,S
+Iron Man 2,Hero in super-suit for first time,M
+Iron Man 2,Sassy Nick Fury,S
+Iron Man 2,"""Real"" song plays",M
+Iron Man 2,That awful Iron Man face-cam,S
+Iron Man 2,Howard Stark appears or is mentioned,S
+Iron Man 2,"""They said the name of the thing!""",L
+Iron Man 2,"New character with ""foreign"" accent",M
+Thor,Mentions a fictional location,S
+Thor,Blatently CG villain first appears,M
+Thor,Portal/wormhole opens,S
+Thor,"""They said the name of the thing!""",L
+Thor,"New character with ""foreign"" accent",M
+Captain America: The First Avenger,Hero in super-suit for first time,M
+Captain America: The First Avenger,Blatently CG villain first appears,M
+Captain America: The First Avenger,Hydra mentioned,S
+Captain America: The First Avenger,Improbable Captain America shield physics,S
+Captain America: The First Avenger,Howard Stark appears or is mentioned,S
+Captain America: The First Avenger,"""They said the name of the thing!""",L
+Captain America: The First Avenger,"New character with ""foreign"" accent",M
+The Avengers,Iron man flies,S
+The Avengers,Sassy Nick Fury,S
+The Avengers,Mentions a fictional location,S
+The Avengers,Portal/wormhole opens,S
+The Avengers,Hydra mentioned,S
+The Avengers,That awful Iron Man face-cam,S
+The Avengers,Improbable Captain America shield physics,S
+The Avengers,Howard Stark appears or is mentioned,S
+The Avengers,"""They said the name of the thing!""",L
+The Avengers,"New character with ""foreign"" accent",M
+Iron Man 3,Iron man flies,S
+Iron Man 3,Hero in super-suit for first time,M
+Iron Man 3,That awful Iron Man face-cam,S
+Iron Man 3,"""They said the name of the thing!""",L
+Iron Man 3,"New character with ""foreign"" accent",M
+Thor: The Dark World,Mentions a fictional location,S
+Thor: The Dark World,Portal/wormhole opens,S
+Thor: The Dark World,"""They said the name of the thing!""",L
+Thor: The Dark World,Spaceship/futuristic vehicle,S
+Thor: The Dark World,"New character with ""foreign"" accent",M
+Captain America: The Winter Soldier,Sassy Nick Fury,S
+Captain America: The Winter Soldier,Hydra mentioned,S
+Captain America: The Winter Soldier,Improbable Captain America shield physics,S
+Captain America: The Winter Soldier,Howard Stark appears or is mentioned,S
+Captain America: The Winter Soldier,"""They said the name of the thing!""",L
+Captain America: The Winter Soldier,"New character with ""foreign"" accent",M
+Guardians of the Galaxy,"""Real"" song plays",M
+Guardians of the Galaxy,Mentions a fictional location,S
+Guardians of the Galaxy,"""They said the name of the thing!""",L
+Guardians of the Galaxy,Spaceship/futuristic vehicle,S
+Age of Ultron,Iron man flies,S
+Age of Ultron,Sassy Nick Fury,S
+Age of Ultron,Mentions a fictional location,S
+Age of Ultron,Blatently CG villain first appears,M
+Age of Ultron,Hydra mentioned,S
+Age of Ultron,That awful Iron Man face-cam,S
+Age of Ultron,Improbable Captain America shield physics,S
+Age of Ultron,Howard Stark appears or is mentioned,S
+Age of Ultron,"New character with ""foreign"" accent",M
+Ant-Man,Hero in super-suit for first time,M
+Ant-Man,Mentions a fictional location,S
+Ant-Man,Howard Stark appears or is mentioned,S
+Ant-Man,"""They said the name of the thing!""",L
+Civil War,Iron man flies,S
+Civil War,Mentions a fictional location,S
+Civil War,Hydra mentioned,S
+Civil War,That awful Iron Man face-cam,S
+Civil War,Improbable Captain America shield physics,S
+Civil War,Howard Stark appears or is mentioned,S
+Civil War,Spaceship/futuristic vehicle,S
+Civil War,"New character with ""foreign"" accent",M
+Doctor Strange,Hero in super-suit for first time,M
+Doctor Strange,Mentions a fictional location,S
+Doctor Strange,Blatently CG villain first appears,M
+Doctor Strange,Portal/wormhole opens,S
+Doctor Strange,Hydra mentioned,S
+Doctor Strange,"""They said the name of the thing!""",L
+Doctor Strange,"New character with ""foreign"" accent",M
+Guardians of the Galaxy 2,"""Real"" song plays",M
+Guardians of the Galaxy 2,Mentions a fictional location,S
+Guardians of the Galaxy 2,Blatently CG villain first appears,M
+Guardians of the Galaxy 2,"""They said the name of the thing!""",L
+Guardians of the Galaxy 2,Spaceship/futuristic vehicle,S
+Thor Ragnarok,"""Real"" song plays",M
+Thor Ragnarok,Mentions a fictional location,S
+Thor Ragnarok,Blatently CG villain first appears,M
+Thor Ragnarok,Portal/wormhole opens,S
+Thor Ragnarok,"""They said the name of the thing!""",L
+Thor Ragnarok,Spaceship/futuristic vehicle,S
+Black Panther,"Someone says ""Vibranium""",S
+Black Panther,A previously unmentioned use for vibranium is revealed.,M
+Black Panther,Hero in super-suit for first time,M
+Black Panther,Mentions a fictional location,S
+Black Panther,"""They said the name of the thing!""",L
+Black Panther,Spaceship/futuristic vehicle,S
+Black Panther,"New character with ""foreign"" accent",M
+Infinity War,Iron man flies,S
+Infinity War,Sassy Nick Fury,S
+Infinity War,Mentions a fictional location,S
+Infinity War,Blatently CG villain first appears,M
+Infinity War,Portal/wormhole opens,S
+Infinity War,That awful Iron Man face-cam,S
+Infinity War,Improbable Captain America shield physics,S
+Infinity War,Spaceship/futuristic vehicle,S
+Ant-Man and the Wasp,Hero in super-suit for first time,M
+Ant-Man and the Wasp,"""Real"" song plays",M
+Ant-Man and the Wasp,Mentions a fictional location,S
+Ant-Man and the Wasp,Blatently CG villain first appears,M
+Ant-Man and the Wasp,Portal/wormhole opens,S
+Captain Marvel,Hero in super-suit for first time,M
+Captain Marvel,Sassy Nick Fury,S
+Captain Marvel,"""Real"" song plays",M
+Captain Marvel,Mentions a fictional location,S
+Captain Marvel,Spaceship/futuristic vehicle,S
+Endgame,Iron man flies,S
+Endgame,Sassy Nick Fury,S
+Endgame,Mentions a fictional location,S
+Endgame,Blatently CG villain first appears,M
+Endgame,Portal/wormhole opens,S
+Endgame,Hydra mentioned,S
+Endgame,That awful Iron Man face-cam,S
+Endgame,Improbable Captain America shield physics,S
+Endgame,Howard Stark appears or is mentioned,S
+Endgame,Spaceship/futuristic vehicle,S
