@@ -1,0 +1,27 @@
+Rule,Requires,Class
+"""Stark"" said or seen",STARK,S
+Hero in super-suit for first time,SUIT,M
+Explosions,EVERY,S
+Stan Lee cameo,EVERY,L
+Sassy Nick Fury,FURY,S
+"""Real"" song plays",SONG,M
+Mentions a fictional location,LOCATION,S
+Blatently CG villain first appears,CG_VILLAIN,M
+Portal/wormhole opens,PORTAL,S
+Hydra mentioned,HYDRA,S
+That awful Iron Man face-cam,STARK,S
+Improbable Captain America shield physics,CAP,S
+Villain defeated,EVERY,L
+Any character drinks anything,EVERY,S
+Howard Stark appears or is mentioned,STARK_SR,S
+"""They said the name of the thing!""",NAME,L
+Laser/energy beam,EVERY,S
+Epic shot of the hero(es),EVERY,L
+Spaceship/futuristic vehicle,SHIP,S
+Unexpectedly comical moment,EVERY,M
+Slow motion,SLOWMO,M
+Ant-man changes size,ANTMAN,S
+"""Oh my god! They were evil!?""",TWIST,L
+Avenger not named in title appears,CROSSOVER,M
+Each pick a hero and drink every time they use their powers,AVENGER,M
+Thor throws or spins his hammer,HAMMER,S

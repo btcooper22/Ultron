@@ -2,15 +2,13 @@
 require(tidyr)
 require(dplyr)
 require(magrittr)
-require(readxl)
 require(foreach)
 require(readr)
 
 # Load
-file <- "Guide.xlsx"
-films <- read_xlsx(file, 1)
-pool <- read_xlsx(file, 2)
-vars <- read_xlsx(file, 3)
+films <- read_csv("films.csv")
+pool <- read_csv("pool.csv")
+vars <- read_csv("vars.csv")
 
 # Produce full list
 films_unique <- unique(films$Film)
