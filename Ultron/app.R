@@ -23,7 +23,9 @@ rules <- read.csv("UltronRules.csv")
 # Correct capitalisation
 rules$Rule <- firstup(rules$Rule)
 
-# Load images
+# Load images list
+# images <- read.csv("Ultron/images/posterguide.csv")
+images <- read.csv("images/posterguide.csv")
 
 # Define UI for application
 ui <- fluidPage(
@@ -67,7 +69,7 @@ ui <- fluidPage(
 # input <- data.frame(film = unique(rules$Film),
 #                     nS = 2)
 # film <-  sample(input$film,1)
-# film_rules <- rules %>% 
+# film_rules <- rules %>%
 #     filter(Film == film)
 
 #paste("Take a small drink whenever", c("A", "B", "C"))
@@ -96,7 +98,6 @@ server <- function(input, output) {
             select(Rule) %>% 
             deframe()
         
-        
         # Sample large drinks
         large_drinks <- film_rules %>% 
             filter(Class == "L") %>% 
@@ -104,11 +105,18 @@ server <- function(input, output) {
             select(Rule) %>% 
             deframe()
         
+        # Find image
+        image_name <- images %>% 
+            filter(Film == film_name) %>% 
+            select(image_name) %>% 
+            deframe()
+        
         # Return
         list(film_name = film_name,
              small_drinks = small_drinks,
              medium_drinks = medium_drinks,
-             large_drinks = large_drinks)
+             large_drinks = large_drinks,
+             image_name = image_name)
     })
     
     
@@ -153,7 +161,7 @@ server <- function(input, output) {
     
     output$image <- renderImage({
         filename <- normalizePath(file.path('./images',
-                                            paste("poster_antman", '.png', sep='')))
+                                            paste(film()["image_name"], '.png', sep='')))
         list(src = filename,
              alt = paste("Image number", 3))
     }, deleteFile = FALSE)
