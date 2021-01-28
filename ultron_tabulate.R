@@ -6,9 +6,9 @@ require(foreach)
 require(readr)
 
 # Load
-films <- read_csv("films.csv")
-pool <- read_csv("pool.csv")
-vars <- read_csv("vars.csv")
+films <- read_csv("definitions/films.csv")
+pool <- read_csv("definitions/pool.csv")
+vars <- read_csv("definitions/vars.csv")
 
 # Produce full list
 films_unique <- unique(films$Film)
@@ -50,7 +50,7 @@ tabulated <- full_rules %>%
   select(Film, S, M, L)
 
 # Write
-write_csv(tabulated, "UltronTabulated.csv")
+write_csv(tabulated, "definitions/UltronTabulated.csv")
 full_rules %>% 
   na.omit() %>% 
   write_csv("Ultron/UltronRules.csv")
