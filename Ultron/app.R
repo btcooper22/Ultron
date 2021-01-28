@@ -43,7 +43,7 @@ ui <- fluidPage(
                         options = list(`actions-box` = TRUE,
                                        `selected-text-format` = "count > 1"),
                         selected = unique(rules$Film)),
-            
+            helpText("Select the (max) number of each type of drink:"),
             numericInput("nS", "Small drinks:", min = 0, max = 12, value = 2),
             numericInput("nM", "Medium drinks:", min = 0, max = 8, value = 2),
             numericInput("nL", "Large drinks:", min = 0, max = 6, value = 2),
