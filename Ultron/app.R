@@ -23,14 +23,16 @@ rules <- read.csv("UltronRules.csv")
 # Correct capitalisation
 rules$Rule <- firstup(rules$Rule)
 
+# Load images
+
 # Define UI for application
 ui <- fluidPage(
     
     # Application title
     titlePanel("Ultron: A Marvel Drinking Game Generator"),
     
-    sidebarLayout(
-        sidebarPanel(
+    fluidRow(
+        column(4,
             helpText("Select films to include or exclude in the randomisation:"),
             
             pickerInput("film", "Films:",
@@ -47,8 +49,10 @@ ui <- fluidPage(
                        style = "gradient")
         ),
         
-        mainPanel(
-            textOutput("selected_film"),
+        column(4,
+            h2(textOutput("selected_film")),
+            imageOutput("image")),
+        column(4,
             h2("Take a small drink:"),
             htmlOutput("small_drink"),
             h2("Take a medium drink:"),
@@ -66,7 +70,7 @@ ui <- fluidPage(
 # film_rules <- rules %>% 
 #     filter(Film == film)
 
-paste("Take a small drink whenever", c("A", "B", "C"))
+#paste("Take a small drink whenever", c("A", "B", "C"))
 
 # Define server logic 
 server <- function(input, output) {
@@ -145,6 +149,14 @@ server <- function(input, output) {
             HTML("")
         }
     })
+    
+    
+    output$image <- renderImage({
+        filename <- normalizePath(file.path('./images',
+                                            paste("poster_antman", '.png', sep='')))
+        list(src = filename,
+             alt = paste("Image number", 3))
+    }, deleteFile = FALSE)
 }
 
 # Run the application 
