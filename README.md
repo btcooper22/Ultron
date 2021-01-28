@@ -1,3 +1,7 @@
+# Ultron - Randomised Marvel Cinematic Universe Drinking Games
+
+The name really says it all. This app allows you to generate, within specified parameters, drinking games for any MCU films (well, at least, those available on Disney Plus)
+
 # Usage
 
 Clone this repository into the location of your choice, then run the Shiny app `Ultron/app.R`. Select your randomisation parameters and hit the button!
