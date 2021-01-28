@@ -1,6 +1,3 @@
-# Ultron
-App to randomly generate Marvel film drinking rules
-
 # Usage
 
 Clone this repository into the location of your choice, then run the Shiny app `Ultron/app.R`. Select your randomisation parameters and hit the button!
