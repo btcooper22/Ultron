@@ -103,7 +103,7 @@ server <- function(input, output) {
     output$small_drink <- renderUI({ 
         if(input$nS!=0)
         {
-            HTML(paste("Take a small drink whenever", film()["small_drinks"] %>% unlist(), 
+            HTML(paste("Take a small drink", film()["small_drinks"] %>% unlist(), 
                        collapse  = "<br/>"))
         }else
         {
@@ -115,7 +115,7 @@ server <- function(input, output) {
     output$medium_drink <- renderUI({ 
         if(input$nM!=0)
         {
-            HTML(paste("Take a medium drink whenever", film()["medium_drinks"] %>% unlist(), 
+            HTML(paste("Take a medium drink", film()["medium_drinks"] %>% unlist(), 
                        collapse  = "<br/>"))
         }else
         {
@@ -126,7 +126,7 @@ server <- function(input, output) {
     output$large_drink <- renderUI({ 
         if(input$nL!=0)
         {
-            HTML(paste("Take a large drink whenever", film()["large_drinks"] %>% unlist(), 
+            HTML(paste("Take a large drink", film()["large_drinks"] %>% unlist(), 
                        collapse  = "<br/>"))
         }else
         {

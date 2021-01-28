@@ -1,27 +1,27 @@
 Rule,Requires,Class
-"""Stark"" said or seen",STARK,S
-Hero in super-suit for first time,SUIT,M
-Explosions,EVERY,S
-Stan Lee cameo,EVERY,L
-Sassy Nick Fury,FURY,S
-"""Real"" song plays",SONG,M
-Mentions a fictional location,LOCATION,S
-Blatently CG villain first appears,CG_VILLAIN,M
-Portal/wormhole opens,PORTAL,S
-Hydra mentioned,HYDRA,S
-That awful Iron Man face-cam,STARK,S
-Improbable Captain America shield physics,CAP,S
-Villain defeated,EVERY,L
-Any character drinks anything,EVERY,S
-Howard Stark appears or is mentioned,STARK_SR,S
-"""They said the name of the thing!""",NAME,L
-Laser/energy beam,EVERY,S
-Epic shot of the hero(es),EVERY,L
-Spaceship/futuristic vehicle,SHIP,S
-Unexpectedly comical moment,EVERY,M
-Slow motion,SLOWMO,M
-Ant-man changes size,ANTMAN,S
-"""Oh my god! They were evil!?""",TWIST,L
-Avenger not named in title appears,CROSSOVER,M
-Each pick a hero and drink every time they use their powers,AVENGER,M
-Thor throws or spins his hammer,HAMMER,S
+"whenever the word ""Stark"" is said or seen",STARK,S
+when the hero is in their super-suit for the first time,SUIT,M
+whenver there is an explosion,EVERY,S
+at the inevitable Stan Lee cameo,EVERY,L
+whenver Nick Fury is sassy,FURY,S
+"whenever a ""Real"" song plays",SONG,M
+whenever someone mentions a fictional location,LOCATION,S
+at the first appearance of a blatently CG villain,CG_VILLAIN,M
+whenever anyone or anything goes through a portal or wormhole,PORTAL,S
+whenever Hydra are mentioned,HYDRA,S
+whenever you see that awful Iron Man face-cam,STARK,S
+whenever Captain America's shield disregards the laws of physics,CAP,S
+when the primary villain is defeated,VILLAIN,L
+whenever any character drinks anything,EVERY,S
+whenever Howard Stark appears or is mentioned,STARK_SR,S
+when the name of the film is said by a character for the first time,NAME,L
+whenever anyone fires a laser beam or energy weapon,EVERY,S
+"at the first ""epic"" shot of the hero(es)",EVERY,L
+whenever someone enters or drives a spaceship/futuristic vehicle,SHIP,S
+whenever there is an unexpectedly comical moment,EVERY,M
+whenever there is slow motion,SLOWMO,M
+whenever Ant-man changes size,ANTMAN,S
+"whenever a ""good"" character is shockingly revealed to be evil!",TWIST,L
+whenever an Avenger not named in title appears,CROSSOVER,M
+your chosen hero uses their powers (each pick a separate hero at the start),AVENGER,M
+whenever Thor throws or spins his hammer,HAMMER,S

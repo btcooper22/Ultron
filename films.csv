@@ -1,121 +1,121 @@
 Film,Rule,Class
-Age of Ultron,"Anyone says ""Ultron""",S
-Age of Ultron,"Anyone says ""Avengers""",S
-Age of Ultron,Anyone mentions “bad language”,S
-Age of Ultron,Hulk and Black Widow sexual tension,M
-Age of Ultron,Infinity stones are seen or referenced,M
-Age of Ultron,Vision awakens,L
-Age of Ultron,Quicksilver dies,L
-Ant-Man,Bug or size pun,M
-Ant-Man,Scott says he no longer steals,M
-Ant-Man,A lock is entered or broken (This includes jumping through the hole itself),M
-Ant-Man,"The words ""Ant-Man"" and ""Yellow Jacket"" are said",S
-Ant-Man,Tea or Waffles are shown ,S
-Ant-Man,See a new type of ant,M
-Ant-Man and the Wasp,"The words ""Quantum"", ""Lab"" or ""House"" are said",S
-Ant-Man and the Wasp,Germany is referenced,M
-Ant-Man and the Wasp,The police show up or are pursuing them,M
-Ant-Man and the Wasp,"Scott is ""possessed""",M
-Ant-Man and the Wasp,Scott becomes giant,L
-Black Panther,"Someone says ""Vibranium"" or ""Wakanda""",S
-Black Panther,A previously unmentioned use for vibranium is revealed.,M
-Black Panther,A suit does an energy blast ,S
-Black Panther,A spear is extended ,S
-Black Panther,There is a flashback or someone travels to the ancestor realm,M
-Black Panther,We find out who Killmonger really is,L
-Black Panther,See the heart-shaped herb,M
-Black Panther,"""Wakanda Forever!""",S
-Captain America: The First Avenger,Any reference to Hitler or the Nazis,M
-Captain America: The First Avenger,Steve gets shredded,L
-Captain America: The First Avenger,Someone mentions Brooklyn,M
-Captain America: The First Avenger,Captain America throws his Shield,S
-Captain America: The First Avenger,Red Skull reveals his red skull,L
-Captain America: The Winter Soldier,Anyone talks about trust,S
-Captain America: The Winter Soldier,Glass shatters,S
-Captain America: The Winter Soldier,Bucky catches Cap's shield,L
-Captain America: The Winter Soldier,Someone previously thought dead is shown to be alive,M
-Captain America: The Winter Soldier,"Anyone says ""freedom"", ""order"" or ""chaos""",S
-Captain America: The Winter Soldier,That cool knife switch in the fight between bucky and cap,M
-Captain America: The Winter Soldier,Natasha tries to have a normal conversation with Steve,M
-Captain Marvel,"The words ""Lawson"", ""Pegasus"" or ""Skroll"" are said ",S
-Captain Marvel,A misogynistic comment is made ,M
-Captain Marvel,A 90's reference is made,S
-Captain Marvel,A Skroll changes its form ,M
-Captain Marvel,We find out how Fury lost his eye,L
-Civil War,Spider-Man introduced,L
-Civil War,"""Avengers"" or ""Winter Soldier"" said",S
-Civil War,Location title shown,M
-Civil War,Someone goes through a wall of a building,M
-Civil War,Someone appears with a black eye,M
-Civil War,Who killed Stark's parents?,L
-Doctor Strange,"The words ""Dark Dimension"", ""Ancient One"" or ""Astral Body"" are said ",S
-Doctor Strange,Strange corrects someone that he is indeed a doctor ,M
-Doctor Strange,The cape saves Strange ,M
-Doctor Strange,Acid trip visuals,M
-Doctor Strange,The mirror dimension appears ,S
-Doctor Strange,Orange sparky chains!,S
-Doctor Strange,Strange scales Everest? ,L
-Endgame,"Heavy-handed ""Girl Power"" scene",L
-Endgame,Steve lifts Mjolnir,L
-Endgame,"The words ""Avengers"", ""Thanos"", ""Stones"" or ""Time"" are said ",S
-Endgame,There is a location or year title onscreen ,M
-Endgame,"An Avenger runs into their prior self, spouse or parent while traveling time ",M
-Endgame,A stone is obtained  by the Avengers,M
-Endgame,An Avenger dies,M
-Endgame,America's Ass,M
-Guardians of the Galaxy,Drax takes a comment or action literally,M
-Guardians of the Galaxy,Yondu whistles his arrow around,M
-Guardians of the Galaxy,Someone doesn't know who Star Lord is,M
-Guardians of the Galaxy,"""I am Groot""",S
-Guardians of the Galaxy,"""They got my dick message!""",L
-Guardians of the Galaxy,"""Thanos"" or ""Orb"" is said",S
-Guardians of the Galaxy 2,"The words ""Star Lord"", ""Battery"" or ""Dad"" are said ",S
-Guardians of the Galaxy 2,Drax laughs,M
-Guardians of the Galaxy 2,New planet/location shown ,M
-Guardians of the Galaxy 2,"""I'm Mary Poppins y'all!""",L
-Infinity War,Someone forced to chose between protecting/obtaining an Infinity Stone and someone else's life.,M
-Infinity War,Thanos uses an infinity stone,S
-Infinity War,The Snap,L
-Infinity War,"The words ""Thanos"", ""Stone"" or ""Avengers"" are said ",S
-Infinity War,The movie switches between Earth and Space,S
-Infinity War,A location title is shown,M
-Infinity War,Rocket is referred to as a rabbit ,M
-Infinity War,Thanos obtains an Infinity Stone ,M
-Iron Man,Suit malfunctions,M
-Iron Man,Hologram or heads-up display,S
-Iron Man,"Someone says ""Shield""",S
-Iron Man,Flies for first time,L
-Iron Man 2,"Someone says ""Bird""",S
-Iron Man 2,Tony's [poor] health is referenced,S
-Iron Man 2,Tony discovers a new element,M
-Iron Man 2,“My Greatest Creation… Is You”,L
-Iron Man 3,Someone banters with their suit's artificial intelligence,M
-Iron Man 3,"Anyone says ""Mandarin""",S
-Iron Man 3,There’s a reference to New York / The Avengers,M
-Iron Man 3,One of the Iron Man suits is destroyed,S
-Iron Man 3,Killian breaths fire/lava,M
-Iron Man 3,"The ""Mandarin"" is revealed",L
-The Avengers,Someone makes a pop culture reference,M
-The Avengers,"""Puny God""",L
-The Avengers,"Anyone says ""Loki"" or ""Tesseract""",S
-The Avengers,Someone gets blue'd,M
-The Avengers,Tony calls someone a nickname instead of their real/hero name,M
-The Avengers,Coulson's death,L
-Thor,"Anyone says ""Thor"" or ""Asgard""",S
-Thor,Lightning,S
-Thor,"“This drink, I like it! Another!” (Ensure you do 2)",M
-Thor,Camera is at a jaunty angle for no reason,M
-Thor,“Is it madness….is it?!… IS IT?!”,L
-Thor Ragnarok,"The words ""Ragnarok"" ""Asgard"" or ""Grand Master"" are said ",S
-Thor Ragnarok,Someone is electrocuted,S
-Thor Ragnarok,Another avenger is referenced,S
-Thor Ragnarok,Korg is comic relief,M
-Thor Ragnarok,Mjolnir is destroyed,M
-Thor Ragnarok,Thor summons lightning from within,L
-Thor Ragnarok,Hulk transforms,M
-Thor Ragnarok,Jeff Goldblum goes full Jeff Goldblum,M
-Thor: The Dark World,"Anyone says ""Thor"", ""Asgard"" or ""Aether""",S
-Thor: The Dark World,Thor flips a table.,M
-Thor: The Dark World,“You must be truly desperate to come to me for help.”,M
-Thor: The Dark World,Frigga’s Funeral,M
-Thor: The Dark World,"""Ta-dah!""",L
+Age of Ultron,"whenver anyone says ""Ultron""",S
+Age of Ultron,"whenver anyone says ""Avengers""",S
+Age of Ultron,whenver anyone mentions “bad language”,S
+Age of Ultron,whenver there is Hulk and Black Widow sexual tension,M
+Age of Ultron,whenver Infinity stones are seen or referenced,M
+Age of Ultron,when Vision awakens,L
+Age of Ultron,when Quicksilver dies,L
+Ant-Man,at every bug or size pun,M
+Ant-Man,whenver Scott says he no longer steals,M
+Ant-Man,whenver a lock is entered or broken (This includes jumping through the hole itself),M
+Ant-Man,"whenver the words ""Ant-Man"" and ""Yellow Jacket"" are said",S
+Ant-Man,"whenver tea, coffee or waffles are shown ",S
+Ant-Man,when you see a new type of ant,M
+Ant-Man and the Wasp,"whenver the words ""Quantum"", ""Lab"" or ""House"" are said",S
+Ant-Man and the Wasp,whenver Germany is referenced,M
+Ant-Man and the Wasp,whenver the police show up or are pursuing them,M
+Ant-Man and the Wasp,"whenver scott is ""possessed""",M
+Ant-Man and the Wasp,when Scott becomes giant,L
+Black Panther,"whenver someone says ""Vibranium"" or ""Wakanda""",S
+Black Panther,whenver a previously unmentioned use for vibranium is revealed.,M
+Black Panther,whenver a suit does an energy blast ,S
+Black Panther,whenver a spear is extended ,S
+Black Panther,whenver there is a flashback or someone travels to the ancestor realm,M
+Black Panther,when we find out who Killmonger really is,L
+Black Panther,whenver we see the heart-shaped herb,M
+Black Panther,"whenver  anyone says ""Wakanda Forever!""",S
+Captain America: The First Avenger,whenever there is any reference to Hitler or the Nazis,M
+Captain America: The First Avenger,when Steve gets shredded,L
+Captain America: The First Avenger,whenver someone mentions Brooklyn,M
+Captain America: The First Avenger,whenver Captain America throws his Shield,S
+Captain America: The First Avenger,when Red Skull reveals his red skull,L
+Captain America: The Winter Soldier,whenver anyone talks about trust,S
+Captain America: The Winter Soldier,whenver glass shatters,S
+Captain America: The Winter Soldier,when Bucky catches Cap's shield,L
+Captain America: The Winter Soldier,whenver someone previously thought dead is shown to be alive,M
+Captain America: The Winter Soldier,"whenver anyone says ""freedom"", ""order"" or ""chaos""",S
+Captain America: The Winter Soldier,at that cool knife drop switch in the fight between bucky and cap,M
+Captain America: The Winter Soldier,whenver Natasha tries to have a normal conversation with Steve,M
+Captain Marvel,"whenver the words ""Lawson"", ""Pegasus"" or ""Skroll"" are said ",S
+Captain Marvel,whenver a misogynistic comment is made ,M
+Captain Marvel,whenver a 90's reference is made,S
+Captain Marvel,whenver a Skroll changes its form ,M
+Captain Marvel,when we find out how Fury lost his eye,L
+Civil War,when Spider-Man is introduced,L
+Civil War,"whenver  ""Avengers"" or ""Winter Soldier"" is said",S
+Civil War,whenver a location title is shown,M
+Civil War,whenver someone goes through a wall/building,M
+Civil War,whenver someone appears with a black eye,M
+Civil War,when we find out who killed Stark's parents,L
+Doctor Strange,"whenver the words ""Dark Dimension"", ""Ancient One"" or ""Astral Body"" are said ",S
+Doctor Strange,whenver  Strange corrects someone that he is indeed a doctor ,M
+Doctor Strange,whenver The cape saves Strange ,M
+Doctor Strange,whenver we see acid trip visuals,M
+Doctor Strange,whenver the mirror dimension appears ,S
+Doctor Strange,whenver we see orange sparky chains!,S
+Doctor Strange,when Strange scales Everest?,L
+Endgame,"at the heavy-handed ""Girl Power"" scene",L
+Endgame,when Steve lifts Mjolnir,L
+Endgame,"whenver the words ""Avengers"", ""Thanos"", ""Stones"" or ""Time"" are said ",S
+Endgame,whenver there is a location or year title onscreen ,M
+Endgame,"whenver an Avenger runs into their prior self, spouse or parent while traveling time ",M
+Endgame,whenver a stone is obtained by the Avengers,M
+Endgame,whenver an Avenger dies,M
+Endgame,for America's ass,M
+Guardians of the Galaxy,whenver Drax takes a comment or action literally,M
+Guardians of the Galaxy,whenver Yondu whistles his arrow around,M
+Guardians of the Galaxy,whenver someone doesn't know who Star Lord is,M
+Guardians of the Galaxy,"for every ""I am Groot""",S
+Guardians of the Galaxy,"at ""They got my dick message!""",L
+Guardians of the Galaxy,"whenver ""Thanos"" or ""Orb"" is said",S
+Guardians of the Galaxy 2,"whenver the words ""Star Lord"", ""Battery"" or ""Dad"" are said ",S
+Guardians of the Galaxy 2,whenver Drax laughs,M
+Guardians of the Galaxy 2,whenver a new planet/location is shown ,M
+Guardians of the Galaxy 2,"at ""I'm Mary Poppins y'all!""",L
+Infinity War,whenver someone is forced to chose between protecting/obtaining an Infinity Stone and someone else's life.,M
+Infinity War,whenver thanos uses an infinity stone,S
+Infinity War,"at ""The Snap""",L
+Infinity War,"whenver the words ""Thanos"", ""Stone"" or ""Avengers"" are said ",S
+Infinity War,whenver the movie switches between Earth and space,S
+Infinity War,whenver a location title is shown,M
+Infinity War,whenver Rocket is referred to as a rabbit ,M
+Infinity War,whenver Thanos obtains an Infinity Stone ,M
+Iron Man,whenver his suit malfunctions,M
+Iron Man,whenver you see a hologram or heads-up display,S
+Iron Man,"whenver someone says ""Shield""",S
+Iron Man,when Iron Man flies for the first time,L
+Iron Man 2,"whenver someone says ""Bird""",S
+Iron Man 2,whenver Tony's [poor] health is referenced,S
+Iron Man 2,when Tony discovers a new element,M
+Iron Man 2,at “My Greatest Creation… Is You”,L
+Iron Man 3,whenver someone banters with their suit's artificial intelligence,M
+Iron Man 3,"whenver anyone says ""Mandarin""",S
+Iron Man 3,whenver there’s a reference to New York / The Avengers,M
+Iron Man 3,whenver one of the Iron Man suits is destroyed,S
+Iron Man 3,whenver Killian breaths fire/lava,M
+Iron Man 3,"whenver the ""Mandarin"" is revealed",L
+The Avengers,whenver someone makes a pop culture reference,M
+The Avengers,"at ""Puny God""",L
+The Avengers,"whenver anyone says ""Loki"" or ""Tesseract""",S
+The Avengers,whenver someone gets blue'd by Loki's staff,M
+The Avengers,whenver Tony calls someone a nickname instead of their real/hero name,M
+The Avengers,at Coulson's death,L
+Thor,"whenver anyone says ""Thor"" or ""Asgard""",S
+Thor,whenver there is lightning,S
+Thor,"at “This drink, I like it! Another!”. Then, of course, take a second.",M
+Thor,whenver the camera is at a jaunty angle for no reason,M
+Thor,at “Is it madness….is it?!… IS IT?!”,L
+Thor Ragnarok,"whenver the words ""Ragnarok"" ""Asgard"" or ""Grand Master"" are said ",S
+Thor Ragnarok,whenver someone is electrocuted,S
+Thor Ragnarok,whenver another avenger is referenced,S
+Thor Ragnarok,whenver Korg is comic relief,M
+Thor Ragnarok,when Mjolnir is destroyed,M
+Thor Ragnarok,when Thor summons lightning from within,L
+Thor Ragnarok,whenver Hulk transforms,M
+Thor Ragnarok,whenver Jeff Goldblum goes full Jeff Goldblum,M
+Thor: The Dark World,"whenver anyone says ""Thor"", ""Asgard"" or ""Aether""",S
+Thor: The Dark World,whenver Thor flips a table.,M
+Thor: The Dark World,at “You must be truly desperate to come to me for help.”,M
+Thor: The Dark World,at Frigga’s Funeral,M
+Thor: The Dark World,"at ""Ta-dah!""",L
