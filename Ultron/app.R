@@ -1,44 +1,65 @@
 # FUll randomisation
-# Control number within each category
 # Control film options
+# Control number within each category
 # Render images
 
+# Packages
+require(shiny)
+require(dplyr)
+require(shinyWidgets)
 
-library(shiny)
+# Data (for deployment)
+rules <- read.csv("UltronRules.csv")
 
-# Define UI for application that draws a histogram
+# Data (for testing)
+# rules <- read.csv("Ultron/UltronRules.csv")
+
+# Define UI for application
 ui <- fluidPage(
 
     # Application title
-    titlePanel("Old Faithful Geyser Data"),
+    titlePanel("Ultron: A Marvel Drinking Game Generator"),
 
-    # Sidebar with a slider input for number of bins 
     sidebarLayout(
         sidebarPanel(
-            sliderInput("bins",
-                        "Number of bins:",
-                        min = 1,
-                        max = 50,
-                        value = 30)
+            helpText("Select films to include or exclude in the randomisation:"),
+            
+            pickerInput("film", "Films:",
+                        choices = unique(rules$Film),
+                        multiple = TRUE, width = "auto", 
+                        options = list(`actions-box` = TRUE)),
+            
+            sliderInput("range", 
+                        label = "Range of interest:",
+                        min = 0, max = 100, value = c(0, 100)),
+            actionButton("goButton","Randomize!")
         ),
-
-        # Show a plot of the generated distribution
+        
         mainPanel(
-           plotOutput("distPlot")
+            textOutput("selected_var"),
+            textOutput("min_max")
         )
     )
 )
 
-# Define server logic required to draw a histogram
+# Debug
+#input <- data.frame(film = unique(rules$Film))
+
+# Define server logic 
 server <- function(input, output) {
-
-    output$distPlot <- renderPlot({
-        # generate bins based on input$bins from ui.R
-        x    <- faithful[, 2]
-        bins <- seq(min(x), max(x), length.out = input$bins + 1)
-
-        # draw the histogram with the specified number of bins
-        hist(x, breaks = bins, col = 'darkgray', border = 'white')
+    # Generate film
+    film <- eventReactive(input$goButton, {
+        sample(input$film,1)
+    })
+    
+    
+    output$selected_var <- renderText({ 
+        paste("Your film is", film())
+    })
+    
+    output$min_max <- renderText({ 
+        paste("You have chosen a range that goes from",
+              input$range[1], "to", input$range[2])
     })
 }
 
