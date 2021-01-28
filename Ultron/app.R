@@ -1,5 +1,5 @@
 # To-do: Render images
-# To-do: Better IO
+# To-do: two-panel output
 
 
 # Packages
@@ -8,11 +8,20 @@ require(dplyr)
 require(tibble)
 require(shinyWidgets)
 
+# Functions
+firstup <- function(x) {
+    substr(x, 1, 1) <- toupper(substr(x, 1, 1))
+    x
+}
+
 # Data (for deployment)
 rules <- read.csv("UltronRules.csv")
 
 # Data (for testing)
 # rules <- read.csv("Ultron/UltronRules.csv")
+
+# Correct capitalisation
+rules$Rule <- firstup(rules$Rule)
 
 # Define UI for application
 ui <- fluidPage(
@@ -40,8 +49,11 @@ ui <- fluidPage(
         
         mainPanel(
             textOutput("selected_film"),
+            h2("Take a small drink:"),
             htmlOutput("small_drink"),
+            h2("Take a medium drink:"),
             htmlOutput("medium_drink"),
+            h2("Take a large drink:"),
             htmlOutput("large_drink")
         )
     )
@@ -103,7 +115,7 @@ server <- function(input, output) {
     output$small_drink <- renderUI({ 
         if(input$nS!=0)
         {
-            HTML(paste("Take a small drink", film()["small_drinks"] %>% unlist(), 
+            HTML(paste(film()["small_drinks"] %>% unlist(), 
                        collapse  = "<br/>"))
         }else
         {
@@ -115,7 +127,7 @@ server <- function(input, output) {
     output$medium_drink <- renderUI({ 
         if(input$nM!=0)
         {
-            HTML(paste("Take a medium drink", film()["medium_drinks"] %>% unlist(), 
+            HTML(paste(film()["medium_drinks"] %>% unlist(), 
                        collapse  = "<br/>"))
         }else
         {
@@ -126,7 +138,7 @@ server <- function(input, output) {
     output$large_drink <- renderUI({ 
         if(input$nL!=0)
         {
-            HTML(paste("Take a large drink", film()["large_drinks"] %>% unlist(), 
+            HTML(paste(film()["large_drinks"] %>% unlist(), 
                        collapse  = "<br/>"))
         }else
         {
